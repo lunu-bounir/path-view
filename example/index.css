@@ -1,0 +1,9 @@
+textarea {
+  width: 100%;
+  box-sizing: border-box;
+  margin-top: 10px;
+}
+#counter {
+  border: solid 1px;
+  padding: 5px;
+}
